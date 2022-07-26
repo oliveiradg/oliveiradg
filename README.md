@@ -3,7 +3,7 @@
 </div>
 
 <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" 
-padding="10px" style="vertical-align:middle;margin-left:10px" height = "300" width="450px" align="right" alt="JavaScript">
+padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" width="450px" align="right" alt="JavaScript">
 
 ~~~json
 {

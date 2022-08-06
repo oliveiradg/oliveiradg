@@ -1,4 +1,4 @@
-# Olá, Eu Sou o João Oliveira. Desenvolvedor Flutter e Mobile Nativo.
+# Olá, Eu Sou o João Oliveira. Desenvolvedor e Analista de Sistemas.
 
 </div>
 

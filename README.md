@@ -11,7 +11,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
        "idade": 43,
        "sexo": "Masculino",
        "profissao": "Desenvolvedor Flutter",
-       "empresa": "ModalGR",
+       "empresa": "HexagonPro",
        "localizacao":[
            {
                 "cidade": "Praia Grande",
@@ -31,19 +31,19 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
 </div>
 
 
-# Skills
+## Skills
 
-## Desenvolvimento Mobile
+### Desenvolvimento Mobile
 
 <div>
-   <img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
+   <img align="center" alt="Dart" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
    <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
-   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-   <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg">  
+   <img align="center" alt="Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
+   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+   <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">  
 </div>
 
-## Desenvolvimento Web 
+### Desenvolvimento Web 
 
 <div> 
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -53,7 +53,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Desenvolvimento Back-End
+### Desenvolvimento Back-End
 
 <div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

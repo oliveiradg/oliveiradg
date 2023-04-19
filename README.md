@@ -30,7 +30,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
    </a>  
 </div>
 
-<!--
+
 
 # Skills
 
@@ -64,7 +64,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
 </div>
 
--->
+
 
   ![Snake animation](https://github.com/oliveiradg/oliveiradg/blob/output/github-contribution-grid-snake.svg)
 

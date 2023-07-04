@@ -1,6 +1,7 @@
 # Olá, Eu Sou o João Oliveira. Mobile Software Engineer
 
-<img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" 
+//<img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" 
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" 
 padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" width="450px" align="right" alt="JavaScript">
 
 ~~~json

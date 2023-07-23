@@ -11,7 +11,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
        "nome": "João Oliveira",
        "idade": 44,
        "sexo": "Masculino",
-       "profissao": Mobile Software Engineer
+       "profissao": "Mobile Software Engineer"
        "localizacao":[
            {
                 "cidade": "Praia Grande",

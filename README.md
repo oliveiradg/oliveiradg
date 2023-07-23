@@ -13,9 +13,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
        "sexo": "Masculino",
        "profissao": [
                       "Desenvolvedor Flutter",
-                      "Mobile Software Engineer",
-                      "Desenvolvedor Python",
-       "empresa": "JBO Tecnologia da Informação",
+                      "Software Engineer",
        "localizacao":[
            {
                 "cidade": "Praia Grande",

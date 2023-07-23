@@ -9,10 +9,13 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
    "desenvolvedor mobile": {
        "id": 1,
        "nome": "João Oliveira",
-       "idade": 43,
+       "idade": 44,
        "sexo": "Masculino",
-       "profissao": "Desenvolvedor Flutter",
-       "empresa": "HexagonPro",
+       "profissao": [
+                      "Desenvolvedor Flutter",
+                      "Mobile Software Engineer",
+                      "Desenvolvedor Python",
+       "empresa": "JBO Tecnologia da Informação",
        "localizacao":[
            {
                 "cidade": "Praia Grande",

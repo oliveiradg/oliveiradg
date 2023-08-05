@@ -62,7 +62,7 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
   <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
 </div>
 
-
+<!--
 
   ![Snake animation](https://github.com/oliveiradg/oliveiradg/blob/output/github-contribution-grid-snake.svg)
 
@@ -70,5 +70,5 @@ padding="10px" style="vertical-align:middle;margin-left:10px" height = "305" wid
 <img height="180em" src="https://github-readme-stats-oliveiradg.vercel.app/api?username=oliveiradg&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-oliveiradg.vercel.app/api/top-langs/?username=oliveiradg&layout=compact&langs_count=7&theme=react"/>
 
-
+-->
 <!--AU-->
